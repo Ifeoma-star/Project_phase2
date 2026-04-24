@@ -11,6 +11,7 @@ Required libraries: react, tailwindcss, framer-motion
 ## Rubric
 
 | #   | ID          | Description                                                                   | Weight | Rationale                                                                                                                          | Dependent On |
+| --- | ----------- | ----------------------------------------------------------------------------- | ------ | ---------------------------------------------------------------------------------------------------------------------------------- | ------------ |
 | 1   | visual      | Display tall dark lamp container with rounded base and rounded cap            | major  | The lamp container provides the enclosed vertical space through which wax blobs travel during the simulation.                     | None         |
 | 2   | visual      | Display four circular blobs inside lamp resting at the bottom on initial load | major  | Four blobs at the bottom establish the settled resting state visible before any button is clicked.                                 | C1           |
 | 3   | content     | Display blobs in four distinct colors: red, orange, teal, and yellow-green    | major  | Four distinct colors allow users to identify each blob individually as they rise and sink through the lamp.               | C2           |

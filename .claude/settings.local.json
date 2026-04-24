@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/Naomi/.claude/projects/c--Users-Naomi-Desktop-vibecoding-prompt-project3/memory/**)"
+    ],
+    "additionalDirectories": [
+      "c:\\Users\\Naomi\\.claude\\projects\\c--Users-Naomi-Desktop-vibecoding-prompt-project3\\memory"
+    ]
+  }
+}

@@ -20,6 +20,7 @@ Required libraries: react, tailwindcss, lucide-react
 | 6   | interaction | Update canvas with a new pink neon sign showing a randomly selected word from OPEN, NEON, GLOW, VIBE, LATE when Randomize clicked | major | Clicking Randomize cycles through the preset word list to produce a new glowing sign on the canvas. | C3           |
 | 7   | visual      | Render the neon sign text with a pink glow effect                                                                  | major  | The pink glow effect is the defining visual output of the neon sign generator and is present from initial load. | C1           |
 | 8   | interaction | Save the current neon sign as an SVG file when Download SVG clicked                                                | major  | Saving the sign as an SVG file delivers the core output of an SVG generation task.                            | C4           |
+| 9   | state       | Display one of the five preset words — OPEN, NEON, GLOW, VIBE, LATE — as the current neon sign on the canvas at all times | major  | The canvas must always reflect a valid word from the prompt-specified list, confirming the current sign state is correctly maintained. | C6           |
 
 ## Justification
 
